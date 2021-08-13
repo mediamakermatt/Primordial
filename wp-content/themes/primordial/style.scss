@@ -1,0 +1,8 @@
+// npm run gulp compile:sass
+
+.test{
+    background: red;
+    &:hover {
+        background: blue;
+    }
+}
