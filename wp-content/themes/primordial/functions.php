@@ -178,3 +178,8 @@ if ( defined( 'JETPACK__VERSION' ) ) {
 	require get_template_directory() . '/inc/jetpack.php';
 }
 
+/**
+ * Add Tailwind to the theme.
+ */
+wp_enqueue_style( 'primordial-styles', get_template_directory_uri().'/css/theme.css', array(), date("Y-m-d h:i:sa") );
+
