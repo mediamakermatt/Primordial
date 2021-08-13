@@ -1,2 +1,2 @@
 # primordial
-Ultra barebones WordPress theme with SASS, Gulp, &amp;Tailwind
+Ultra barebones WordPress theme with SASS, Gulp, and Tailwind
